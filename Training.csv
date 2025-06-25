@@ -1,0 +1,7 @@
+itching,skin_rash,fatigue,fever,cough,prognosis, fatigue, skin_rash, fever, headache, chills, nausea, vomiting,
+abdominal_pain, diarrhoea, joint_pain, shortness_of_breath
+1,1,0,0,0,Fungal infection
+0,0,1,1,1,Flu
+0,0,0,0,1,Common Cold
+1,1,1,0,0,Fungal infection
+0,0,1,1,0,Flu
